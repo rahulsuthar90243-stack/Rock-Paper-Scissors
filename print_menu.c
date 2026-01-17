@@ -3,6 +3,6 @@
 
 void print_menu(){
 
-    printf("[1]. Play Game");
-    printf("[0]. Exit Game");
+    printf("\n[1]. Play Game");
+    printf("\n[0]. Exit Game");
 }
