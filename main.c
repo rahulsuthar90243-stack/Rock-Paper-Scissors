@@ -2,8 +2,9 @@
 
 int main(){
     int choice;
-    printf("--Welcome Rock Paper Scissors");
-    printf("Please, enter oprion: ");
+    printf("\n\n--Welcome Rock Paper Scissors\n");
+    print_menu();
+    printf("\nPlease, enter oprion: ");
     scanf("%d", &choice);
 
     switch (choice){
