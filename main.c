@@ -2,6 +2,7 @@
 
 int main(){
     int play = 1;
+    srand(time(NULL));
 
     print_menu();
     int option;
