@@ -14,7 +14,7 @@ int main(){
         printf("\n---------------------------------------");
     }
 
-    while(option){
+    while(play){
         if(option == 0){
             printf("\nThank you for Playing.");
             break;
