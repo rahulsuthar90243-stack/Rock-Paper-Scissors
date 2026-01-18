@@ -1,24 +1,36 @@
 #include "game.h"
 
 int main(){
-    int choice;
-    printf("\n\n--Welcome Rock Paper Scissors\n");
+    int play = 1;
+
     print_menu();
+    int option;
+    printf("\n\nPlease Press Option: ");
+    scanf("%d", &option);
 
-    while (1)
-    {
-        switch (choice)
-        {
-            printf("\nPlease, enter oprion: ");
-            scanf("%d", &choice);
-        case 1:
-            break;
+    if (option == 1){
 
-        case 0:
-            return 0;
-
-        default:
-                printf("Invalide choice!!!");
-        }
+        printf("\n====Welcome to Rock Paper Scissors====");
+        printf("\n---------------------------------------");
     }
+
+    while(option){
+        if(option == 0){
+            printf("\nThank you for Playing.");
+            break;
+        }else if(option == 1){
+            
+
+        }else{
+            printf("\nInvalid option! Please press (1 or 0)");
+        }
+        printf("\n\nDo you want to play again ? (1 = Yes, 0 = NO): ");
+        scanf("%d", &play);
+        if(play == 0){
+        printf("\nthank you for playing game.");
+        printf("\n ---------------------------");
+        printf("\n|    Developed by RAHUL    |");
+        printf("\n ---------------------------");
+    }
+}
 }
