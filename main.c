@@ -24,9 +24,9 @@ int main(){
             int user = get_user_choice();
             int comp = get_comp_choice();
 
-            printf("Your Choice: ");
+            printf("\nYour Choice: ");
             show_choice(user);
-            printf("Computer Choice: ");
+            printf("\nComputer Choice: ");
             show_choice(comp);
 
         }else{

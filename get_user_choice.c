@@ -4,7 +4,7 @@ int get_user_choice(){
     int choice;
     do{
       printf("\n\nSelect Your Choice");
-      printf("\n[1]. Rock \n[2].Paper \n[3]. Scissors");
+      printf("\n\n[1]. Rock \n[2]. Paper \n[3]. Scissors");
       printf("\nEnter Choice: ");
       scanf("%d", &choice);
       if(choice < 1 || choice > 3){
