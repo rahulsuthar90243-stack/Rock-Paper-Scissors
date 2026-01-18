@@ -1,6 +1,8 @@
 #ifndef GAME_H
 
 #include <stdio.h>
+#include <time.h>
+#include <stdlib.h>
 
 void print_menu();
 int get_user_choice();
