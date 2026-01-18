@@ -29,6 +29,8 @@ int main(){
             printf("\nComputer Choice: ");
             show_choice(comp);
 
+            winer_check(user, comp);
+
         }else{
             printf("\nInvalid option! Please press (1 or 0)");
         }
