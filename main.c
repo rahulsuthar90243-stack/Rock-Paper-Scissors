@@ -21,6 +21,13 @@ int main(){
             break;
         }else if(option == 1){
             
+            int user = get_user_choice();
+            int comp = get_comp_choice();
+
+            printf("Your Choice: ");
+            show_choice(user);
+            printf("Computer Choice: ");
+            show_choice(comp);
 
         }else{
             printf("\nInvalid option! Please press (1 or 0)");
