@@ -8,7 +8,7 @@ int get_user_choice(){
       printf("\nEnter Choice: ");
       scanf("%d", &choice);
       if(choice < 1 || choice > 3){
-        printf("\nInvalid choice please, enter (1, 2 or 3)");
+        printf("%s\nInvalid choice please, enter (1, 2 or 3)%s",CYAN, COLOR_END);
       }
     } while (choice < 1 || choice > 3);
  

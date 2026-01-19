@@ -17,8 +17,8 @@ int main(){
 
     if (option == 1){
 
-        printf("\n====Welcome to Rock Paper Scissors====");
-        printf("\n---------------------------------------");
+        printf("%s\n====Welcome to Rock Paper Scissors====%s", CYAN, COLOR_END);
+        printf("%s\n---------------------------------------%s",  CYAN, COLOR_END);
     }
 
     while(play){
@@ -43,15 +43,15 @@ int main(){
 
 
         }else{
-            printf("\nInvalid option! Please press (1 or 0)");
+            printf("%s\nInvalid option! Please press (1 or 0)%s",  CYAN, COLOR_END);
         }
-        printf("\n\nDo you want to play again ? (1 = Yes, 0 = NO): ");
+        printf("%s\n\nDo you want to play again ? (1 = Yes, 0 = NO): %s", CYAN, COLOR_END);
         scanf("%d", &play);
         if(play == 0){
         printf("\nthank you for playing game.");
-        printf("\n ---------------------------");
-        printf("\n|    Developed by RAHUL    |");
-        printf("\n ---------------------------");
+        printf("%s\n ---------------------------%s", CYAN, COLOR_END);
+        printf("%s\n|    Developed by RAHUL    |%s", CYAN, COLOR_END);
+        printf("%s\n ---------------------------%s", CYAN, COLOR_END);
     }
 }
 }

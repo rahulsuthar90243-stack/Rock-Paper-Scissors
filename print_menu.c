@@ -2,9 +2,9 @@
 
 
 void print_menu(){
-    printf("\n ---------------------------");
-    printf("\n|    ROCK PAPER SCISSORS    |");
-    printf("\n ---------------------------");
-    printf("\n[1]. Play Game");
-    printf("\n[0]. Exit Game");
+    printf("%s\n ---------------------------%s", CYAN, COLOR_END);
+    printf("%s\n|    ROCK PAPER SCISSORS    |%s", CYAN, COLOR_END);
+    printf("%s\n ---------------------------%s", CYAN, COLOR_END);
+    printf("%s\n[1]. Play Game%s", YELLOW, COLOR_END);
+    printf("%s\n[0]. Exit Game%s", YELLOW, COLOR_END);
 }
