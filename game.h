@@ -8,6 +8,10 @@
 #define Paper 2
 #define Scissors 3
 
+extern int user_score;
+extern int comp_score;
+extern int game_draw;
+
 void print_menu();
 int get_user_choice();
 int get_comp_choice();
