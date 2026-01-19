@@ -1,5 +1,11 @@
 #include "game.h"
 
+
+
+int user_score = 0;
+int comp_score = 0;
+int game_draw = 0;
+
 int main(){
     int play = 1;
     srand(time(NULL));
@@ -30,6 +36,11 @@ int main(){
             show_choice(comp);
 
             winer_check(user, comp);
+
+            printf("\n\nYour Score: %d", user_score);
+            printf("\nComputer Score: %d", comp_score);
+            printf("\nGame Draw: %d", game_draw);
+
 
         }else{
             printf("\nInvalid option! Please press (1 or 0)");
