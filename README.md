@@ -1,6 +1,6 @@
 <h1 align="center">🎮 Rock Paper Scissors Game (C Language)</h1>
 
-<p align="center"><img src="https://github.com/rahulsuthar90243-stack/student-record-management-c/blob/main/project.png?raw=true"></p>
+<p align="center"><img src="https://github.com/rahulsuthar90243-stack/Rock-Paper-Scissors/blob/main/project%20Image/ChatGPT%20Image%20Jan%2019,%202026,%2002_13_21%20PM.png?raw=true"></p>
 
 <p align="center">
 <b>A console-based Rock Paper Scissors game developed in C language, following a modular programming approach.</b>
@@ -46,16 +46,17 @@ This project demonstrates the use of functions, macros, random number generation
 
 
   <h2>Project Screenshots:</h2>
-<img src="https://github.com/rahulsuthar90243-stack/student-record-management-c/blob/main/img4.png?raw=true" alt="project-screenshot" width="1000" height="500/">
+<img src="https://github.com/rahulsuthar90243-stack/Rock-Paper-Scissors/blob/main/project%20Image/img.png?raw=true" width="1000" height="500/">
 
-<img src="https://github.com/rahulsuthar90243-stack/student-record-management-c/blob/main/img5.png?raw=true" alt="project-screenshot" width="900" height="500/">
+<img src="https://github.com/rahulsuthar90243-stack/Rock-Paper-Scissors/blob/main/project%20Image/img1.png?raw=true" alt="project-screenshot">
 
-<img src="https://github.com/rahulsuthar90243-stack/student-record-management-c/blob/main/img7.png?raw=true">
+<img src="https://github.com/rahulsuthar90243-stack/Rock-Paper-Scissors/blob/main/project%20Image/img2.png?raw=true">
 
-<img src="https://github.com/rahulsuthar90243-stack/student-record-management-c/blob/main/ing8.png?raw=true" alt="project-screenshot">
-<img src="https://github.com/rahulsuthar90243-stack/student-record-management-c/blob/main/img11.png?raw=true" alt="project-screenshot">
-<img src="https://github.com/rahulsuthar90243-stack/student-record-management-c/blob/main/img10.png?raw=true" alt="project-screenshot" width="500" height="500/>
-<b>Rahul</b><br>
-C Programming | File Handling | Modular Design
-</p>
+<img src="https://github.com/rahulsuthar90243-stack/Rock-Paper-Scissors/blob/main/project%20Image/img3.png?raw=true" alt="project-screenshot">
+
+<img src="https://github.com/rahulsuthar90243-stack/Rock-Paper-Scissors/blob/main/project%20Image/img4.png?raw=true" alt="project-screenshot"> 
+
+<img src="https://github.com/rahulsuthar90243-stack/Rock-Paper-Scissors/blob/main/project%20Image/img6.png?raw=true" alt="project-screenshot">
+
+
 
